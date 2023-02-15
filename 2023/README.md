@@ -2,7 +2,7 @@
 
 ![Milestone Progress](https://img.shields.io/github/milestones/progress/DominicF96/Roadmap/1?style=for-the-badge)
 
-![2023 Roadmap Banner](/2023/2023_roadmap_banner.png)
+![2023 Roadmap Banner](/2023/banner.png)
 
 My goal for 2023 is to become a senior frontend developer by the end of the year. To reach that milestone, here are my goals.
 
