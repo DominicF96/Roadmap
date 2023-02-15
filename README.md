@@ -1,3 +1,6 @@
+![Activity](https://img.shields.io/github/commit-activity/m/DominicF96/roadmap?style=for-the-badge)
+![Lastest Commit](https://img.shields.io/github/last-commit/DominicF96/roadmap?style=for-the-badge)
+
 # Roadmap
 
 My personal roadmap for becoming a better dev. The roadmap is organized by year, and regroups any experimental project completed that year.
