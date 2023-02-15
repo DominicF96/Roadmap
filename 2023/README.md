@@ -2,7 +2,7 @@
 
 # 2023 Milestone
 
-My goal for 2023 is to become a senior frontend developer by the end of the year. I aim to be able to justify a 100k/year salary ( 22% pay raise ), putting me ( according to [Glassdoor](https://www.glassdoor.ca/Salaries/montreal-senior-front-end-developer-salary-SRCH_IL.0,8_IM990_KO9,35.htm#:~:text=The%20average%20salary%20for%20Senior,year%20in%20the%20Montreal%2C%20QC.) ), slightly above the average salary for that role. To reach that milestone, here are my goals.
+My goal for 2023 is to become a senior frontend developer by the end of the year. To reach that milestone, here are my goals.
 
 ---
 
