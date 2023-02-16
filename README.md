@@ -1,5 +1,6 @@
 ![Activity](https://img.shields.io/github/commit-activity/m/DominicF96/roadmap?style=for-the-badge)
 ![Lastest Commit](https://img.shields.io/github/last-commit/DominicF96/roadmap?style=for-the-badge)
+![Milestone Progress](https://img.shields.io/github/milestones/progress/DominicF96/Roadmap/1?style=for-the-badge)
 
 # Roadmap
 
