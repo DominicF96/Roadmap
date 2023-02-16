@@ -4,8 +4,7 @@
 
 # Roadmap
 
-My personal roadmap for becoming a better dev. The roadmap is organized by year, and regroups any experimental project completed that year.
-The yearly roadmap is defined as a milestone, created in January for technologies to learn or perfect that year (it can change during the year).
+My personal roadmap for growing as a Frontend developer. With this roadmap, I hope to clarify my career goals and the path to achieve them. The roadmap is organized by year, and regroups any experimental project completed that year in pursuit of those goals.
 
 ## Yearly Roadmaps
 
