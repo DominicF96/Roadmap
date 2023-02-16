@@ -8,4 +8,4 @@ My personal roadmap for growing as a Frontend developer. With this roadmap, I ho
 
 ## Yearly Roadmaps
 
-- [2023](/2023)
+- [2023 - Consolidation and Growth](/2023)
