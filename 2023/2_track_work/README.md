@@ -9,5 +9,3 @@ Use the appropriate task tracking tools so that my managers can easily track my 
    - Issues are assigned to me
    - Issues are in the right project
    - Issues are linked to the relevant commits, pull-requests or images are linked to show design progress
-
-test https://github.com/EOS-Nation/spyglass-ui/issues/75#issuecomment-1433708406
